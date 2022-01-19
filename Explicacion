@@ -10,7 +10,6 @@ Lo siguiente que se planea lograr es:
   Corregir errores
   Terminar la funcion de editar
   Guardar las alarmas del usuario, para que asi se mantengan aun y cuando el programa fue cerrado
-  Implementar una base de datos para asi registrar a multiples usuarios 
   Hacer que el programa corra en seguno plano 
   Trabajar en la estetica del programa para que sea mas agradable
   Implementar una funcion que comprouebe la hora para asi notificar al usuario si es que es la hora de una de sus alarmas
